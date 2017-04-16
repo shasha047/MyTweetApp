@@ -1,0 +1,12 @@
+{
+  "name": "shasha-twitter-mittens",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jwt-simple": "^0.5.1",
+    "mongodb": "^2.2.25"
+  },
+  "private": true
+}
